@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Moby Dick - Or, The Whale",
-  "type": "text"
+  "type": "text",
+  "book_id": 469
 }
